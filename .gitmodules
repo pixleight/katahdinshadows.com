@@ -1,6 +1,6 @@
 [submodule "wp-content/themes/reverie"]
 	path = wp-content/themes/reverie
-	url = https://github.com/pixleight/reverie.git
+url=git@github.com:pixleight/reverie.git
 [submodule "wp-content/themes/ksc"]
 	path = wp-content/themes/ksc
-	url = https://github.com/pixleight/reverie-child.git
+url=git@github.com:pixleight/reverie-child.git
